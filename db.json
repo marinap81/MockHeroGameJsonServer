@@ -15,6 +15,18 @@
       "uses":12
     }
   ],
+  "villains":[
+    {
+      "id":1,
+      "name": "Russell Sprout",
+    },
+       {
+      "id":2,
+      "name": "Management Man",
+    }
+    ],
+    
+    
   "profile": {
     "name": "marinap81"
   }
