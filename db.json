@@ -1,0 +1,20 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Captain Swinburne",
+      "minDice":1,
+      "maxDice":6,
+      "uses":1
+    },
+    {
+    "id": 2,
+      "name": "Captain Swin",
+      "minDice":1,
+      "maxDice":6,
+      "uses":12
+  ],
+  "profile": {
+    "name": "marinap81"
+  }
+}
